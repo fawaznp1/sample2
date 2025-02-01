@@ -1,0 +1,18 @@
+
+body {
+    background-color: #0e0101;
+}
+
+.h1 {
+    color: #f60808;
+    font-size: 44px;
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+
+}
+.p1 {
+    color: #bf0606;
+    display: flex;
+    justify-content: center;
+}
